@@ -1,2 +1,6 @@
 # hello-world
 And you thought my Coding extravaganza died...
+
+Coding is a nagging bit of tech wizardry that I can't seem to keep out of my head!
+Not sure if that's a good thing...
+Bully for me!
